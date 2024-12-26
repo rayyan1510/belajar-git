@@ -1,0 +1,10 @@
+Halo... semuanya, ini merupakan jejak dari pembalajar saya tentang GIT
+
+GIT adalah semua VCS (VERSION CONTROL SISTEM) yang mana untuk mengatur versi dari perangkat lunak atau proyek manajamen kode perangkat lunak.
+
+GIT CLONE = Untuk mengcopy repositori orang atau diri sendiri yang akan dipakai untuk diri sendiri pada local system
+GIT BRANCH = Membuat cabang baru dari repositori yang sudah ada. biasanya digunakan untuk membuat sebuah fitur baru dan di uji cobanya tanpa haru mempengaruhi progress asli dari project utama.
+GIT PUSH = Untuk mendorong hasil proyek kita ke dalam repositori cloud seperti github, gitlab, bitbucket.
+GIT COMMIT = Untuk menyimpan hasil perubahan proyek kita dan juga bisa dapat menambahkan pesan agar kita tahu apa saja yang berubah.
+GIT ADD = Menambahkan file atau project baru kedalam VCS (VERSION CONTROL SYSTEM)
+GIT PULL = Untuk menarik project yang berada di cloud ke dalam local system kita jika ada terjadi perubahan biasanya dilakukan pada repo sharing atau tim.
